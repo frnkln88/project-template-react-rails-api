@@ -15,9 +15,8 @@ This is an appointment maker for piano students to use to coordinate lesson time
 
 ## Wireframe(s)
 
-![alt text]
-![alt text]
-![alt text]
+![alt text](https://user-images.githubusercontent.com/43020545/167439838-26ea4b37-b08e-402f-be8d-217d8ee2290b.png)
+![alt text](https://user-images.githubusercontent.com/43020545/167439850-cae8db41-0176-42a4-aea4-a85acc051922.png)
 
 
 ## ERD Model
